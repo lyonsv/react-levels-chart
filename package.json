@@ -1,0 +1,28 @@
+{
+  "name": "react-levels-chart",
+  "version": "1.0.0",
+  "source": "src/index.tsx",
+  "main": "dist/index.js",
+  "module": "dist/index.modern.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "microbundle --jsx React.createElement --jsxFragment React.Fragment",
+    "dev": "microbundle watch --jsx React.createElement --jsxFragment React.Fragment",
+    "start": "vite example --config vite.config.mjs",
+    "prepare": "npm run build"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.2.0",
+    "microbundle": "^0.15.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}
