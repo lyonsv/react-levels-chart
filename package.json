@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "source": "src/index.tsx",
   "main": "dist/index.js",
+  "license": "MIT",
   "module": "dist/index.modern.js",
   "types": "dist/index.d.ts",
   "scripts": {
