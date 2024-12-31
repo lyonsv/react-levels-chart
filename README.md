@@ -1,9 +1,3 @@
-# React Levels Chart
-
-A React component for visualizing engineering career progression using radar charts. This tool helps engineering managers facilitate meaningful discussions about career development and expectations across different engineering levels. You can see the chart in use on the [Radarz site](https://radarz.built.ie). 
-
-The idea for these charts comes from the [engineering ladders](https://github.com/jorgef/engineeringladders) framework.
-
 [![NPM version](https://img.shields.io/npm/v/react-levels-chart.svg)](https://www.npmjs.com/package/react-levels-chart)
 [![Downloads](https://img.shields.io/npm/dm/react-levels-chart.svg)](https://www.npmjs.com/package/react-levels-chart)
 [![License](https://img.shields.io/npm/l/react-levels-chart.svg)](https://github.com/lyonsv/react-levels-chart/blob/main/LICENSE)
@@ -11,6 +5,14 @@ The idea for these charts comes from the [engineering ladders](https://github.co
 [![CodeQL](https://github.com/lyonsv/react-levels-chart/actions/workflows/codeql.yml/badge.svg)](https://github.com/username/repo/actions/workflows/codeql.yml)
 [![codecov](https://codecov.io/gh/lyonsv/react-levels-chart/branch/main/graph/badge.svg)](https://codecov.io/gh/lyonsv/react-levels-chart)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=lyonsv_react-levels-chart&metric=bugs)](https://sonarcloud.io/summary/new_code?id=lyonsv_react-levels-chart)
+
+# React Levels Chart
+
+A React component for visualizing engineering career progression using radar charts. This tool helps engineering managers facilitate meaningful discussions about career development and expectations across different engineering levels. You can see the chart in use on the [Radarz site](https://radarz.built.ie). 
+
+The idea for these charts comes from the [engineering ladders](https://github.com/jorgef/engineeringladders) framework.
+
+<img width="546" alt="image" src="https://github.com/user-attachments/assets/e88dee25-132e-4b11-80a0-bd769a6e889f" />
 
 ## Features
 
