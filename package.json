@@ -1,6 +1,6 @@
 {
   "name": "react-levels-chart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "source": "src/index.tsx",
   "main": "dist/index.js",
   "license": "MIT",
