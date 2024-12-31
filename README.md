@@ -4,3 +4,4 @@
 [![Tests](https://github.com/lyonsv/react-levels-chart/actions/workflows/test.yml/badge.svg)](https://github.com/username/repo/actions/workflows/test.yml)
 [![CodeQL](https://github.com/lyonsv/react-levels-chart/actions/workflows/codeql.yml/badge.svg)](https://github.com/username/repo/actions/workflows/codeql.yml)
 [![codecov](https://codecov.io/gh/lyonsv/react-levels-chart/branch/main/graph/badge.svg)](https://codecov.io/gh/lyonsv/react-levels-chart)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=lyonsv_react-levels-chart&metric=bugs)](https://sonarcloud.io/summary/new_code?id=lyonsv_react-levels-chart)
