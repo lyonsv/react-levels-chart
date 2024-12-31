@@ -1,3 +1,4 @@
+// Radar/index.tsx
 import React from 'react'
 import useLocalStorageSync from './hooks'
 import Controls from './Controls'
