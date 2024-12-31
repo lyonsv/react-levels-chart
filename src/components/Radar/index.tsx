@@ -1,4 +1,3 @@
-// Radar/index.tsx
 import React from 'react'
 import useLocalStorageSync from './hooks'
 import Controls from './Controls'
@@ -47,12 +46,12 @@ type Coordinates = {
   y: number
 }
 
-interface RadarChartProps {
+export interface RadarProps {
   username: string
   levels?: SelectedLevels
 }
 
-const RadarChart: React.FC<RadarChartProps> = ({
+export const Radar: React.FC<RadarProps> = ({
   username,
   levels = defaultLevels,
 }) => {
@@ -179,4 +178,4 @@ const RadarChart: React.FC<RadarChartProps> = ({
   )
 }
 
-export default RadarChart
+export default Radar
